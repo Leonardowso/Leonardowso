@@ -26,7 +26,7 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 ### 1️⃣ Dashboard de Logística e Transporte  
 - **Descrição:** Análise de custos de frete, volumes transportados, prazos de entrega e ocupação de veículos.  
 - **Tecnologias:** Power BI, DAX, Power Query, Python.  
-- **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Portfolio_power_bi/blob/73d5cf2fe4e5fd6883a7eb9cade54a41513f1471/README.md)  
+- **Arquivo:** [Download ](https://github.com/Leonardowso/Portfolio_power_bi/blob/73d5cf2fe4e5fd6883a7eb9cade54a41513f1471/README.md)  
 
 ![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria%201.jpg)
 ---
@@ -34,7 +34,7 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 ### 2️⃣ Dashboard de Importações e Exportações de Produtos de Valor Agregado – Cidades de SP (2022) 
 - **Descrição:** Ranking das cidades, Valor total por cidade, Comparativo entre regiões metropolitanas. 
 - **Tecnologias:** Power BI, DAX, Power Query, Power Point.  
-- **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/311ec44589e24cd52fe06cc6063d6290f85af731/README.md)  
+- **Arquivo:** [Download ](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/311ec44589e24cd52fe06cc6063d6290f85af731/README.md)  
 
 ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/51e92db79ded65068acd2704252bf1f18e96ca40/links%20dash%202022.jpg)
 ---
