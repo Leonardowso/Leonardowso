@@ -33,9 +33,10 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 
 ### 2️⃣ Dashboard de Importações e Exportações de Produtos de Valor Agregado – Cidades de SP (2022) 
 - **Descrição:** Ranking das cidades, Valor total por cidade, Comparativo entre regiões metropolitanas. 
-- **Tecnologias:** Power BI, DAX, Power Query.  
-- **Arquivo:** [Download .pbix](./dashboards/dashboard_vendas.pbix)  
+- **Tecnologias:** Power BI, DAX, Power Query, Power Point.  
+- **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/311ec44589e24cd52fe06cc6063d6290f85af731/README.md)  
 
+![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/51e92db79ded65068acd2704252bf1f18e96ca40/links%20dash%202022.jpg)
 ---
 
 ### 3️⃣ Dashboard Financeiro  
