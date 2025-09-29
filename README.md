@@ -3,7 +3,7 @@
 **Analista de Dados**
 
 Tenho 28 anos, sou estudante de **Logística na FATEC Jansen Vidal**.  
-Minha experiência combina **análise de dados aplicada à logística e negócios**, com foco em transformar dados em insights estratégicos.  
+Minha experiência combina **análise de dados aplicada à logística e negócios**, com foco em transformar dados em insights e ações estratégicas.  
 
 ## 🎲📉 Habilidades  
 - Desenvolvimento de **Dashboards interativos em Power BI**  
