@@ -14,7 +14,63 @@ Minha experiência combina **análise de dados aplicada à logística e negócio
 Unir **tecnologia e logística** para otimizar processos, apoiar decisões e gerar valor através dos dados.  
 
 
-<!--
+
+
+### 🛠 Aqui compartilho projetos que desenvolvi aplicando **DAX, Power Query e Python** para tratamento e análise de dados.  
+Os dashboards têm como objetivo transformar informações em **insights estratégicos** para diferentes áreas.  
+
+---
+
+## 📂 Projetos  
+
+### 1️⃣ Dashboard de Logística e Transporte  
+- **Descrição:** Análise de custos de frete, volumes transportados, prazos de entrega e ocupação de veículos.  
+- **Tecnologias:** Power BI, DAX, Power Query.  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_logistica.pbix)  
+
+---
+
+### 2️⃣ Dashboard de Vendas e Metas  
+- **Descrição:** Monitoramento de desempenho comercial, faturamento por período e alcance de metas de vendas.  
+- **Tecnologias:** Power BI, DAX.  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_vendas.pbix)  
+
+---
+
+### 3️⃣ Dashboard Financeiro  
+- **Descrição:** Controle de receitas, despesas e margens de lucro, com indicadores de desempenho financeiro.  
+- **Tecnologias:** Power BI, DAX, Python (pré-processamento).  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_financeiro.pbix)  
+
+---
+
+### 4️⃣ Dashboard de Produção  
+- **Descrição:** Acompanhamento de capacidade produtiva, eficiência das linhas e controle de desperdícios.  
+- **Tecnologias:** Power BI, Power Query.  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_producao.pbix)  
+
+---
+
+### 5️⃣ Dashboard de RH  
+- **Descrição:** Indicadores de turnover, absenteísmo, headcount e diversidade.  
+- **Tecnologias:** Power BI, DAX.  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_rh.pbix)  
+
+---
+
+### 6️⃣ Dashboard de Marketing Digital  
+- **Descrição:** Análise de campanhas, taxa de conversão, engajamento e ROI de marketing.  
+- **Tecnologias:** Power BI, Python (tratamento de dados).  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_marketing.pbix)  
+
+---
+
+### 7️⃣ Dashboard de Estoque e Suprimentos  
+- **Descrição:** Controle de níveis de estoque, giro de produtos e lead time de fornecedores.  
+- **Tecnologias:** Power BI, Power Query.  
+- **Arquivo:** [Download .pbix](./dashboards/dashboard_estoque.pbix)  
+
+---!--
 **Leonardowso/Leonardowso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
