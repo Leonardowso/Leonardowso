@@ -27,6 +27,7 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 - **Descrição:** Análise de custos de frete, volumes transportados, prazos de entrega e ocupação de veículos.  
 - **Tecnologias:** Power BI, DAX, Power Query, Python.  
 - **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Portfolio_power_bi/blob/3d055afd4452188690a222c4cc77a0f0a5d21627/DASHBOARD_TRANSPOTECH_FEIRA_SOLU%C3%87%C3%95ES_17_06_2025.pbix)  
+
 ![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria%201.jpg)
 ---
 
