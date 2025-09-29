@@ -31,9 +31,9 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 ![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria%201.jpg)
 ---
 
-### 2️⃣ Dashboard de Vendas e Metas  
-- **Descrição:** Monitoramento de desempenho comercial, faturamento por período e alcance de metas de vendas.  
-- **Tecnologias:** Power BI, DAX.  
+### 2️⃣ Dashboard de Importações e Exportações de Produtos de Valor Agregado – Cidades de SP (2022) 
+- **Descrição:** Ranking das cidades, Valor total por cidade, Comparativo entre regiões metropolitanas. 
+- **Tecnologias:** Power BI, DAX, Power Query.  
 - **Arquivo:** [Download .pbix](./dashboards/dashboard_vendas.pbix)  
 
 ---
