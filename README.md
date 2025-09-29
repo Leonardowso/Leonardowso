@@ -26,7 +26,7 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 ### 1️⃣ Dashboard de Logística e Transporte  
 - **Descrição:** Análise de custos de frete, volumes transportados, prazos de entrega e ocupação de veículos.  
 - **Tecnologias:** Power BI, DAX, Power Query, Python.  
-- **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Portfolio_power_bi/blob/3d055afd4452188690a222c4cc77a0f0a5d21627/README.md)  
+- **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Portfolio_power_bi/blob/73d5cf2fe4e5fd6883a7eb9cade54a41513f1471/README.md)  
 
 ![image alt](https://github.com/Leonardowso/Portfolio_power_bi/blob/0c3f06f4b5c713e3712770977caa0ed6ad5e9adb/dash%20cervejaria%201.jpg)
 ---
