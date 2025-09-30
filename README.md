@@ -39,10 +39,10 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 ![image alt](https://github.com/Leonardowso/Dash-EXP-IMP-SP-2022/blob/51e92db79ded65068acd2704252bf1f18e96ca40/links%20dash%202022.jpg)
 ---
 
-### 3️⃣ Dashboard Financeiro  
-- **Descrição:** Controle de receitas, despesas e margens de lucro, com indicadores de desempenho financeiro.  
-- **Tecnologias:** Power BI, DAX, Python (pré-processamento).  
-- **Arquivo:** [Download .pbix](./dashboards/dashboard_financeiro.pbix)  
+### 3️⃣ Dashboard COVID-19 
+- **Descrição:** Total de casos confirmados, Total de Obitos, Taxa de letalidade 
+- **Tecnologias:** Power BI  
+- **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Dashboard-Casos-de-COVID-19-ano-2020-2023/blob/e7a799f71200f31805cd75f78618be12190274bf/README.md)  
 
 ---
 
