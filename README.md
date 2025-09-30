@@ -44,6 +44,7 @@ Os dashboards têm como objetivo transformar informações em **insights estrat�
 - **Tecnologias:** Power BI  
 - **Arquivo:** [Download .pbix](https://github.com/Leonardowso/Dashboard-Casos-de-COVID-19-ano-2020-2023/blob/e7a799f71200f31805cd75f78618be12190274bf/README.md)  
 
+![image alt](https://github.com/Leonardowso/Dashboard-Casos-de-COVID-19-ano-2020-2023/blob/e7a799f71200f31805cd75f78618be12190274bf/covid.jpg)
 ---
 
 ### 4️⃣ Dashboard de Produção  
